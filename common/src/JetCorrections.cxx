@@ -206,6 +206,7 @@ SET_JERFILES_DATA(Fall17_17Nov2017,28,AK4PFchs)
 SET_JERFILES_DEcombined(Fall17_17Nov2017,31,AK4PFchs)
 
 SET_JERFILES_DATA(Fall17_09May2018,1,AK4PFchs)
+SET_JERFILES_DATA(Fall17_09May2018,2,AK4PFchs)
 
 
  void correct_jet(FactorizedJetCorrector & corrector, Jet & jet, const Event & event, JetCorrectionUncertainty* jec_unc, int jec_unc_direction){
